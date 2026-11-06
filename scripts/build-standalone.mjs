@@ -1,0 +1,14 @@
+import fs from 'node:fs/promises';
+const read=p=>fs.readFile(new URL('../'+p,import.meta.url),'utf8');
+const bundle=await Promise.all(['words','manifest','dictionary','examples'].map(async n=>JSON.parse(await read(`data/${n}.json`))));
+const modules=await Promise.all(['lib/core.js','lib/db.js','lib/audio.js','app.js'].map(read));
+let code=modules.map(s=>s.replace(/^import .+;\n/gm,'').replace(/^export /gm,'')).join('\n\n');
+const start=code.indexOf('try{[words,manifest,dictionary,examples]='),end=code.indexOf(';byId=',start);
+if(start<0||end<0)throw Error('App data-loading marker changed. Update the standalone builder.');
+code=code.slice(0,start)+'try{[words,manifest,dictionary,examples]='+JSON.stringify(bundle).replace(/</g,'\\u003c')+code.slice(end);
+if(/^import /m.test(code))throw Error('Standalone output still contains imports.');
+let html=await read('index.html');const css=await read('style.css');
+html=html.replace('<link rel="stylesheet" href="style.css">',()=>`<style>${css}</style>`);
+html=html.replace('<script type="module" src="app.js"></script>',()=>`<script type="module">${code.replace(/<\/script/gi,'<\\/script')}</script>`);
+await fs.writeFile(new URL('../Molly-Word-Journal.html',import.meta.url),html);
+console.log(`Built a self-contained local journal with ${bundle[0].length} words (${(Buffer.byteLength(html)/1024/1024).toFixed(2)} MB).`);

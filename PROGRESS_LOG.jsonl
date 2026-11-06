@@ -1,0 +1,26 @@
+{"updatedAt": "2026-11-06T13:27:43.258629+00:00", "state": "preparing", "cards": 3926, "remaining": 189, "new2027": {"total": 505, "cards": 444}, "needsLemmaExplanation": 312, "errors": []}
+{"updatedAt": "2026-11-06T13:28:00.487808+00:00", "state": "preparing", "cards": 3926, "remaining": 189, "new2027": {"total": 505, "cards": 444}, "needsLemmaExplanation": 312, "errors": []}
+{"updatedAt": "2026-11-06T13:28:01.910783+00:00", "state": "importing", "cards": 3937, "remaining": 178, "new2027": {"total": 505, "cards": 455}, "needsLemmaExplanation": 316, "errors": []}
+{"updatedAt": "2026-11-06T13:28:08.817967+00:00", "state": "importing", "cards": 3956, "remaining": 159, "new2027": {"total": 505, "cards": 463}, "needsLemmaExplanation": 317, "errors": []}
+{"updatedAt": "2026-11-06T13:28:15.614427+00:00", "state": "importing", "cards": 3967, "remaining": 148, "new2027": {"total": 505, "cards": 463}, "needsLemmaExplanation": 318, "errors": []}
+{"updatedAt": "2026-11-06T13:28:22.455069+00:00", "state": "importing", "cards": 3980, "remaining": 135, "new2027": {"total": 505, "cards": 463}, "needsLemmaExplanation": 321, "errors": []}
+{"updatedAt": "2026-11-06T13:28:29.396507+00:00", "state": "importing", "cards": 3982, "remaining": 133, "new2027": {"total": 505, "cards": 463}, "needsLemmaExplanation": 298, "errors": []}
+{"updatedAt": "2026-11-06T13:28:36.384069+00:00", "state": "importing", "cards": 3982, "remaining": 133, "new2027": {"total": 505, "cards": 463}, "needsLemmaExplanation": 252, "errors": []}
+{"updatedAt": "2026-11-06T13:28:43.338433+00:00", "state": "importing", "cards": 3982, "remaining": 133, "new2027": {"total": 505, "cards": 463}, "needsLemmaExplanation": 203, "errors": []}
+{"updatedAt": "2026-11-06T13:28:50.349256+00:00", "state": "importing", "cards": 3982, "remaining": 133, "new2027": {"total": 505, "cards": 463}, "needsLemmaExplanation": 157, "errors": []}
+{"updatedAt": "2026-11-06T13:28:57.373779+00:00", "state": "importing", "cards": 3982, "remaining": 133, "new2027": {"total": 505, "cards": 463}, "needsLemmaExplanation": 108, "errors": []}
+{"updatedAt": "2026-11-06T13:29:04.409143+00:00", "state": "importing", "cards": 3982, "remaining": 133, "new2027": {"total": 505, "cards": 463}, "needsLemmaExplanation": 58, "errors": []}
+{"updatedAt": "2026-11-06T13:29:11.372468+00:00", "state": "importing", "cards": 3982, "remaining": 133, "new2027": {"total": 505, "cards": 463}, "needsLemmaExplanation": 22, "errors": []}
+{"updatedAt": "2026-11-06T13:29:17.999721+00:00", "state": "source-pass-complete", "cards": 3982, "remaining": 133, "new2027": {"total": 505, "cards": 463}, "needsLemmaExplanation": 22, "errors": []}
+{"updatedAt": "2026-11-06T13:29:41.099699+00:00", "state": "preparing", "cards": 3982, "remaining": 133, "new2027": {"total": 505, "cards": 463}, "needsLemmaExplanation": 20, "errors": []}
+{"updatedAt": "2026-11-06T13:29:41.919802+00:00", "state": "importing", "cards": 3982, "remaining": 133, "new2027": {"total": 505, "cards": 463}, "needsLemmaExplanation": 10, "errors": []}
+{"updatedAt": "2026-11-06T13:29:48.559335+00:00", "state": "source-pass-complete", "cards": 3982, "remaining": 133, "new2027": {"total": 505, "cards": 463}, "needsLemmaExplanation": 10, "errors": []}
+{"updatedAt": "2026-11-06T13:35:57.778482+00:00", "state": "explanations-complete", "cards": 4115, "remaining": 0, "new2027": {"total": 505, "cards": 505}, "needsLemmaExplanation": 0, "errors": []}
+{"updatedAt": "2026-11-06T13:40:39.201362+00:00", "state": "preparing", "cards": 4115, "remaining": 0, "new2027": {"total": 505, "cards": 505}, "needsLemmaExplanation": 6, "errors": []}
+{"updatedAt": "2026-11-06T13:55:52.555334+00:00", "state": "preparing", "cards": 4115, "remaining": 0, "new2027": {"total": 505, "cards": 505}, "needsLemmaExplanation": 6, "errors": []}
+{"updatedAt": "2026-11-06T14:38:28.897826+00:00", "state": "content-complete-reviewing", "cards": 4115, "examples": 4115, "remaining": 0, "examplesRemaining": 0}
+{"updatedAt": "2026-11-06T14:39:31.131904+00:00", "state": "content-complete-reviewing", "cards": 4115, "examples": 4115, "remaining": 0, "examplesRemaining": 0}
+{"updatedAt": "2026-11-06T14:44:50.146225+00:00", "state": "content-complete-reviewing", "cards": 4115, "examples": 4115, "remaining": 0, "examplesRemaining": 0}
+{"updatedAt": "2026-11-06T14:45:21.593775+00:00", "state": "content-complete-reviewing", "cards": 4115, "examples": 4115, "remaining": 0, "examplesRemaining": 0}
+{"updatedAt": "2026-11-06T14:50:05.133829+00:00", "state": "content-complete-reviewing", "cards": 4115, "examples": 4115, "remaining": 0, "examplesRemaining": 0}
+{"updatedAt": "2026-11-06T14:57:40.987787+00:00", "state": "complete-reviewed", "cards": 4115, "examples": 4115, "remaining": 0, "examplesRemaining": 0}

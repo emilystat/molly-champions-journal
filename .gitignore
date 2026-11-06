@@ -1,0 +1,14 @@
+research/
+.DS_Store
+node_modules/
+coverage/
+*.log
+
+qa-responsive.html
+
+# Local import inputs and rejected draft examples are not publication assets.
+data/example-batches/
+__pycache__/
+*.pyc
+.env
+.env.*

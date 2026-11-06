@@ -1,0 +1,39 @@
+{
+  "updatedAt": "2026-11-06T14:57:40.987787+00:00",
+  "state": "complete-reviewed",
+  "total": 4115,
+  "cards": 4115,
+  "examples": 4115,
+  "dictionaryCards": 3210,
+  "studyNotes": 905,
+  "remaining": 0,
+  "examplesRemaining": 0,
+  "new2027": {
+    "total": 505,
+    "cards": 505,
+    "examples": 505
+  },
+  "categories": {
+    "1": {
+      "total": 1126,
+      "cards": 1126,
+      "examples": 1126
+    },
+    "2": {
+      "total": 1988,
+      "cards": 1988,
+      "examples": 1988
+    },
+    "3": {
+      "total": 1001,
+      "cards": 1001,
+      "examples": 1001
+    }
+  },
+  "sourcePagesCached": 4663,
+  "pendingLemmaPages": 0,
+  "needsLemmaExplanation": 0,
+  "errors": [],
+  "editorialStatus": "All word/example pairs independently reviewed; see QA.md.",
+  "officialListVerified": false
+}
