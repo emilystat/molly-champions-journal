@@ -53,7 +53,7 @@ Local/browser progress does not follow Molly to a different device automatically
 
 ## 7. Visual and interaction direction
 
-A calm personal word journal: warm paper, deep ink, muted lavender and honey accents, clear typography, a small illustrated bee and generous spacing. Use a compact navigation: Today, Practice, Word library, My progress, Settings. Keep the daily action prominent. Provide keyboard operation, visible focus, clear feedback, minimum touch targets and a narrow-screen layout. Avoid competitive leaderboards, public profiles and pressure-based streak penalties.
+A calm personal word journal: warm cream, dark brown text and honey-yellow accents, clear typography, a small illustrated bee and generous spacing. Use a compact navigation: Today, Practice, Word library, My progress, Settings. Keep the daily action prominent. Provide keyboard operation, visible focus, clear feedback, minimum touch targets and a narrow-screen layout. Avoid competitive leaderboards, public profiles and pressure-based streak penalties.
 
 ## 8. Local implementation and checks
 

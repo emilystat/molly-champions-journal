@@ -12,3 +12,7 @@ Records marked `sourceType: study-note` are short original explanations written 
 Examples marked `type: original` are newly written contextual practice sentences, labelled **Original example wording**. They were independently checked for the target spelling, grammar, intended sense and suitability for Molly.
 
 The original Hoover slide prose, example sentences, illustrations and recording files are not bundled. Every word links to its study slide; recording URLs request the source-hosted public audio only when asked. The linked collection mixes source years and is not a verified official 2027 list. Review does not certify every rare-word pronunciation or the precise sense a competition pronouncer will choose.
+
+## Original content license
+
+Original study notes and original practice examples created for this website are © 2026 Emily and licensed under [CC BY-NC-SA 4.0](https://creativecommons.org/licenses/by-nc-sa/4.0/). This applies to the original wording labelled as such, not to Wiktionary text or linked third-party recordings. See the root `LICENSE` notice and the website’s License details page.

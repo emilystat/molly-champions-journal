@@ -54,6 +54,8 @@ Every word now has an explanation and a contextual example sentence: **4,115 of 
 
 ## Content and credits
 
+Made with 🐝 and 🩷 for Molly. Original site content © 2026 Emily, licensed under **CC BY-NC-SA 4.0**, with third-party exceptions described in [LICENSE](LICENSE). The website uses a warm honey-yellow palette.
+
 - Source words/metadata: Hoover 206 study decks linked in the manifest. Each word retains its set and slide reference.
 - Dictionary text: Wiktionary contributors, **CC BY-SA 4.0**. See **data/DICTIONARY_LICENSE.md** and per-entry source URLs; text is shortened and cleaned.
 - Public recording references credit the original study recordings. Original media remains hosted by its source.
